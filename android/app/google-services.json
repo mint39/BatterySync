@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "942469670343",
+    "project_id": "battery-sync-4c356",
+    "storage_bucket": "battery-sync-4c356.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942469670343:android:045f454c6ce4f579ef65e2",
+        "android_client_info": {
+          "package_name": "jp.co.epsilonlabs.batterysync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942469670343-eh2fn7pou7hpkf43q19ojd2qc5b715k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jp.co.epsilonlabs.batterysync",
+            "certificate_hash": "d926b7826eb95404867af3cfd55de54e42bc0982"
+          }
+        },
+        {
+          "client_id": "942469670343-vf4mqcr0pgm06lr79md9kdajmhrgimno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP-pW39oMb1tVROaeCBG2Ga6nUmGFwOqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942469670343-ce0kefed4gr0hcbjjjc844tenu0r24o7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942469670343-46q6ju37k4bef2tfo68kalvkavao0c72.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tomgly.batterysync"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
